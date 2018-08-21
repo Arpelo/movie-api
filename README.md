@@ -1,6 +1,4 @@
-# movie-api
-
-# Live Movie Api
+# Movie-api
 
 # Movies
  
